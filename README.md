@@ -67,9 +67,9 @@ To run the notebooks and models in this repository, you will need:
 - Pandas
 - Matplotlib
 
-Install the required packages using:
+Install the required packages using requirements.txt:
 ```bash
-pip install tensorflow keras numpy pandas matplotlib
+pip install requirements.txt
 ```
 
 ### Running the Models
