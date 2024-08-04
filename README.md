@@ -96,7 +96,7 @@ Contributions are welcome! To contribute:
 For further inquiries, suggestions, or collaborations, please contact 
 
 * **LinkedIn:** [Ahmad Bin Sadiq](https://www.linkedin.com/in/ahmad-bin-sadiq/)
-* **Email:** ahmadbinsadiq@gmail.com"
+* **Email:** ahmadbinsadiq@gmail.com
 
 ## Acknowledgments
 Special thanks to the open-source community for the tools and resources used in these projects. 
