@@ -32,7 +32,7 @@ This repository aims to include a comprehensive collection of deep learning mode
 - **CNN**
   - *cnn_mnist_classification.ipynb*: Implementation of CNN for MNIST digit classification.
   - *cnn_image_classification.ipynb*: Implementation of CNN for general image classification tasks.
-  - `*object_detection.py*: Implementation of real-time object detection using SSD MobileNet V2.`
+  - `*object_detection.ipynb*: Implementation of real-time object detection using SSD MobileNet V2.`
   
 - **RNN**
   - *rnn_sentiment_analysis.ipynb*: Implementation of RNN for text sentiment analysis.
