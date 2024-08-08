@@ -37,6 +37,7 @@ This repository aims to include a comprehensive collection of deep learning mode
 - **RNN**
   - *rnn_sentiment_analysis.ipynb*: Implementation of RNN for text sentiment analysis.
   - *rnn_time_series_forecasting.ipynb*: Implementation of RNN for time series forecasting.
+  - *rnn_sequence_prediction.ipynb*: Implementation of RNN for general sequence prediction tasks.
 
 - **DNN**
   - *dnn_autoencoder.ipynb*: Implementation of autoencoders for data compression and reconstruction.
