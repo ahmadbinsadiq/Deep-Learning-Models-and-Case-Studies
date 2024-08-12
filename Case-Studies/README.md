@@ -11,7 +11,7 @@ This repository provides a series of deep learning case studies, showcasing prac
 
 2. **Sentiment Analysis**
    - **File:** `sentiment_analysis.ipynb`
-   - **Description:** Applies Recurrent Neural Networks (RNN) to analyze sentiment in text data, using models like LSTM and GRU.
+   - **Description:** Applies Recurrent Neural Networks (RNN) to analyze sentiment from Amazon product reviews in text data, using models like LSTM and GRU.
 
 3. **Image Generation**
    - **File:** `image_generation.ipynb`
@@ -19,7 +19,7 @@ This repository provides a series of deep learning case studies, showcasing prac
 
 4. **Time Series Forecasting**
    - **File:** `time_series_forecasting.ipynb`
-   - **Description:** Implements RNN models to forecast future values based on historical time series data.
+   - **Description:** Forecasting future cryptocurrency prices using historical market data
 
 5. **Custom Projects**
    - **File:** `custom_projects.ipynb`
