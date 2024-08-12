@@ -53,9 +53,9 @@ This repository aims to include a comprehensive collection of deep learning mode
 
 ### Case Studies
 - *mnist_classification.ipynb*: Detailed case study on classifying handwritten digits using CNNs.
-- *sentiment_analysis.ipynb*: Case study on analyzing sentiment in text data using RNNs.
+- *sentiment_analysis.ipynb*: Case study on analyzing sentiment of Amazon Product Reviews in text data using RNNs.
 - *image_generation.ipynb*: Generating new images using GANs in a specific domain.
-- *time_series_forecasting.ipynb*: Forecasting future cryptocurrency prices using historical market data
+- *time_series_forecasting.ipynb*: Forecasting future cryptocurrency prices using historical market data.
 - *custom_projects.ipynb*: Various user-specific projects demonstrating deep learning applications.
 
 ## Getting Started
