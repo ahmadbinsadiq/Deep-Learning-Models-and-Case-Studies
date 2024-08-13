@@ -14,7 +14,7 @@ This repository provides implementations of Convolutional Neural Networks (CNNs)
 - **Description:** This notebook showcases the use of CNNs for general image classification tasks. It includes preprocessing, model architecture, training, and evaluation on Fashion MNIST dataset.
 
 ### 3. Object Detection
-- **File:** `object_detection.py`
+- **File:** `object_detection.ipynb`
 - **Description:** This Python script implements real-time object detection using SSD MobileNet V2. It includes loading pre-trained models, processing input images, and visualizing detected objects.
 
 ## Repository Structure
