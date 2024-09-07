@@ -19,9 +19,13 @@ This repository provides a series of deep learning case studies, showcasing prac
 
 4. **Time Series Forecasting**
    - **File:** `time_series_forecasting.ipynb`
-   - **Description:** Forecasting future cryptocurrency prices using historical market data
+   - **Description:** Forecasts future cryptocurrency prices using historical market data.
 
-5. **Custom Projects**
+5. **ASL Recognition**
+   - **File:** `asl_recognition.ipynb`
+   - **Description:** Utilizes Convolutional Neural Networks (CNNs) to recognize American Sign Language (ASL) alphabet from images.
+  
+6. **Custom Projects**
    - **File:** `custom_projects.ipynb`
    - **Description:** Includes various user-specific projects demonstrating deep learning applications in different domains.
 
@@ -32,6 +36,7 @@ This repository provides a series of deep learning case studies, showcasing prac
 - **sentiment_analysis.ipynb**: Sentiment analysis of text using RNN.
 - **image_generation.ipynb**: Generating images using GANs.
 - **time_series_forecasting.ipynb**: Forecasting time series data with RNNs.
+- **asl_recognition.ipynb**: Case study on recognizing American Sign Language (ASL) alphabet using Convolutional Neural Networks (CNNs).
 - **custom_projects.ipynb**: Diverse case studies showcasing different deep learning techniques.
 
 ### Notebooks
