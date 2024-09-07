@@ -56,6 +56,7 @@ This repository aims to include a comprehensive collection of deep learning mode
 - *sentiment_analysis.ipynb*: Case study on analyzing sentiment of Amazon Product Reviews in text data using RNNs.
 - *image_generation.ipynb*: Generating new images using GANs in a specific domain.
 - *time_series_forecasting.ipynb*: Forecasting future cryptocurrency prices using historical market data.
+- *asl_recognition.ipynb:* Case study on recognizing American Sign Language (ASL) alphabet using Convolutional Neural Networks (CNNs).
 - *custom_projects.ipynb*: Various user-specific projects demonstrating deep learning applications.
 
 ## Getting Started
